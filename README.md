@@ -23,4 +23,4 @@ for all mice tested for each drug regimen throughout the course of the study.
     **NOTE:** These plots should look identical.
 
 * Generate a pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or 
-male mice in the study.
+male mice in the study. 
