@@ -5,7 +5,7 @@ drug of interest, Capomulin, versus the other treatment regimens. You have been 
 of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary 
 of the study results.
 
-## Instructions
+## Instructions 
 
 The following tasks are carried out:
 
