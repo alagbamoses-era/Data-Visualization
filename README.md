@@ -7,7 +7,7 @@ of the study results.
 
 ## Instructions
 
-Your tasks are to do the following:
+The following tasks are carried out:
 
 * Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with 
 that mouse ID.
