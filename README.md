@@ -1,13 +1,3 @@
-# Matplotlib Homework - The Power of Plots
-
-## Background
-
-What good is data without a good plot to tell the story?
-
-So, let's take what you've learned about Python Matplotlib and apply it to a real-world situation and dataset:
-
-![Laboratory](Images/Laboratory.jpg)
-
 While your data companions rushed off to jobs in finance and government, you remained adamant that science was the way for you. 
 Staying true to your mission, you've joined Pymaceuticals Inc., a burgeoning pharmaceutical company based out of San Diego. 
 Pymaceuticals specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments 
@@ -98,22 +88,4 @@ Try answering questions like:
 
   * Where would the labels for that scatter plot come from?
 
-  Again, don't let the magnitude of a programming task scare you off. Ultimately, every programming problem boils down 
-to a handful of bite-sized tasks.
 
-* Get help when you need it! There is never any shame in asking. But, as always, ask a _specific_ question. You'll never 
-get a great answer to "I'm lost."
-
-## Rubric
-
-[Unit 5 Rubric - Matplotlib Homework - The Power of Plots](https://docs.google.com/document/d/1ZZ0lFGHqKwVdqjTCfynY2FSiswuOMBVi9An7oWeg344/edit?usp=sharing)
-
-- - -
-
-## References
-
-Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
